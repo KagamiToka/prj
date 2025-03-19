@@ -15,7 +15,7 @@ import java.util.List;
 @WebServlet(name = "BookController", urlPatterns = {"/book", "/"})
 public class BookController extends HttpServlet {
     private final BookService bookService = new BookService();
-    private static final int BOOKS_PER_PAGE = 8; // Số sách trên mỗi trang
+    private static final int BOOKS_PER_PAGE = 16; // Số sách trên mỗi trang
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

@@ -607,7 +607,7 @@
                         <li><a href="#" onclick="filterByAuthor('Nam Cao')">Nam Cao</a></li>
                         <li><a href="#" onclick="filterByAuthor('Vũ Trọng Phụng')">Vũ Trọng Phụng</a></li>
                         <li><a href="#" onclick="filterByAuthor('Nguyễn Nhật Ánh')">Nguyễn Nhật Ánh</a></li>
-                        <li><a href="#" onclick="filterByAuthorFr()">Tất cả Tác giả Nước ngoài</a></li>
+                        <li><a href="#" onclick="filterByAuthorFr()">Tất cả Tác giả khác</a></li>
                     </ul>
                     <h4>Giá</h4>
                     <ul>
