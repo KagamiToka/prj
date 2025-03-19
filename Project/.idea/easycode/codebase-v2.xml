@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/controller/book/BookController.java;C:/Intel/CSmd3/CaseStudyModule3/src/main/java/model/Book.java;C:/Intel/CSmd3/CaseStudyModule3/src/main/java/model/Customer.java;C:/Intel/CSmd3/CaseStudyModule3/src/main/java/model/Order.java;C:/Intel/CSmd3/CaseStudyModule3/src/main/java/model/OrderDetail.java;C:/Intel/CSmd3/CaseStudyModule3/src/main/java/model/Role.java;C:/Intel/CSmd3/CaseStudyModule3/src/main/java/model/User.java;C:/Intel/CSmd3/CaseStudyModule3/src/main/java/repository/book/BookRepository.java;C:/Intel/CSmd3/CaseStudyModule3/src/main/java/repository/DBRepository.java;C:/Intel/CSmd3/CaseStudyModule3/src/main/java/service/impl/BookService.java;C:/Intel/CSmd3/CaseStudyModule3/src/main/java/service/IService.java;C:/Intel/CSmd3/CaseStudyModule3/README.md" />
+  </component>
+</project>
